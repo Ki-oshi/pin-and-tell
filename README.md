@@ -34,7 +34,6 @@ This website is intended **for administrators only** and is not the public user-
 
 ## 📁 Project Structure
 
-- `/admin` – Admin pages
 - `/css` – Stylesheets
 - `/js` – Scripts
 - `/images` – Uploaded files and assets
